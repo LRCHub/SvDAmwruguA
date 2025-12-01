@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "All my treasure",
+  "base_artist": "",
+  "createdAt": "2025-12-01T13:16:42.004588Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All My Treasures",
+      "artist": "織田 裕二",
+      "has_synced": false,
+      "path": "select/pl_01_All_My_Treasures_織田_裕二.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "All my treasures",
+      "artist": "織田 裕二",
+      "has_synced": false,
+      "path": "select/pl_02_All_my_treasures_織田_裕二.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "All my treasures ～Orchestra Ver～",
+      "artist": "織田 裕二",
+      "has_synced": false,
+      "path": "select/pl_03_All_my_treasures_~Orchestra_Ver~_織田_裕二.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "All my treasures",
+      "artist": "織田 裕二",
+      "has_synced": false,
+      "path": "select/pl_04_All_my_treasures_織田_裕二.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "All My Treasure",
+      "artist": "織田 裕二",
+      "has_synced": false,
+      "path": "select/pl_05_All_My_Treasure_織田_裕二.txt"
+    }
+  ]
+}
